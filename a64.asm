@@ -5,7 +5,7 @@
 	mov rdx,%4
 	syscall
 %endmacro
-
+//
 section .data
 
 	m1 db "Enter How many numbers u want to store in array",10
