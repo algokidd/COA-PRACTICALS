@@ -1,5 +1,5 @@
 
-
+//
 section .data
 m1 db "Hello world"
 l1 equ $-m1
