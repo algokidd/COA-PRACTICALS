@@ -11,13 +11,13 @@ section .data
 	m1 db "Enter How many numbers u want to store in array",10
 	l1 equ $-m1
 	
-	m2 db "Enter the number",10
+	m2 db "Enter the number : ",10
 	l2 equ $-m2
 	
-	m3 db " Array contents are=",10
+	m3 db " Array contents are =",10
 	l3 equ $-m3
 
-	m4 db "Addition of array elements are",10
+	m4 db "Addition of array elements are = ",10
 	l4 equ $-m4
 		
 	m5 db "",10
