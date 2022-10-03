@@ -5,7 +5,7 @@ mov rsi,%1
 mov rdx,%2
 syscall
 %endmacro
-
+//
 %macro accept 2   ;macro to accept
 mov rax,0
 mov rdi,0
