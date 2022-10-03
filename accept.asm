@@ -5,7 +5,7 @@ mov rsi,%3
 mov rdx,%4
 syscall 
 %endmacro
-
+//
 section .data 
 m1 db "Enter 64 bit no=",10d,13d
 l1 equ $-m1
