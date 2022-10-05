@@ -1,4 +1,5 @@
 ;--------------------thisisitt Hacktoberfest #PR1-----
+;--------------------Avdhut Hacktoberfest #PR1-----
 
 %macro scall 4
 	mov rax,%1
